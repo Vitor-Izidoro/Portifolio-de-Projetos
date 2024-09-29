@@ -18,7 +18,7 @@ Este projeto foi inspirado pela minha vontade de criar soluções práticas para
 
 ## Repositório
 
-O código-fonte completo do projeto pode ser acessado no seguinte link: [Projeto Lixeira Inteligente](https://github.com/Vitor-Izidoro/ProjetoLixeiraInteligente)
+O código-fonte completo do projeto pode ser acessado no seguinte link: [Projeto Lixeira Inteligente](https://github.com/Vitor-Izidoro/Lixeira-Inteligente)
 
 ---
 # Projeto Stream Deck com Arduino Leonardo
