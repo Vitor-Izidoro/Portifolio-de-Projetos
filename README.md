@@ -3,7 +3,7 @@
 ---
 # Projeto Lixeira Inteligente
 
-Este repositório contém o código e a documentação do projeto **Lixeira Inteligente**, desenvolvido com o objetivo de monitorar e gerenciar lixeiras remotamente. O sistema é capaz de detectar a quantidade de lixo, verificar se a tampa está aberta ou fechada e enviar essas informações para um site centralizado. O site permite o cadastro e acompanhamento de diversas lixeiras em tempo real.
+Sesenvolvido com o objetivo de monitorar e gerenciar lixeiras remotamente, o sistema é capaz de detectar a quantidade de lixo, verificar se a tampa está aberta ou fechada e enviar essas informações para um site centralizado. O site permite o cadastro e acompanhamento de diversas lixeiras em tempo real.
 
 ## Funcionalidades principais
 
@@ -21,4 +21,25 @@ Este projeto foi inspirado pela minha vontade de criar soluções práticas para
 O código-fonte completo do projeto pode ser acessado no seguinte link: [Projeto Lixeira Inteligente](https://github.com/Vitor-Izidoro/ProjetoLixeiraInteligente)
 
 ---
-socorro
+# Projeto Stream Deck com Arduino Leonardo
+
+## Resumo
+
+O **Projeto Stream Deck com Arduino Leonardo** consiste na criação de um painel de controle personalizado com botões programáveis, que facilita o gerenciamento de atalhos e comandos durante transmissões ao vivo. Com um **Arduino Leonardo** e uma configuração simples de hardware, o projeto permite que os usuários adicionem funções como controle de áudio, envio de mensagens automáticas e outros comandos essenciais para streamers.
+
+### Funcionalidades principais:
+
+- Adição de atalhos programados para transmissões
+- Controle de funções de áudio e vídeo em tempo real
+- Facilidade de uso com botões físicos customizáveis
+
+### Tecnologias utilizadas:
+
+- **Arduino Leonardo** para interface física
+- **Linguagem C** para programação do microcontrolador
+
+### Repositório
+
+O código-fonte completo, junto com instruções detalhadas de montagem e configuração, está disponível no seguinte link:
+
+- [Projeto Stream Deck com Arduino Leonardo](https://github.com/SeuUsuario/ProjetoStreamDeck)
