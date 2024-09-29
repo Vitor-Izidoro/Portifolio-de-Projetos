@@ -42,4 +42,4 @@ O **Projeto Stream Deck com Arduino Leonardo** consiste na criação de um paine
 
 O código-fonte completo, junto com instruções detalhadas de montagem e configuração, está disponível no seguinte link:
 
-- [Projeto Stream Deck com Arduino Leonardo](https://github.com/SeuUsuario/ProjetoStreamDeck)
+- [Projeto Stream Deck com Arduino Leonardo](https://github.com/Vitor-Izidoro/StreamDeck)
