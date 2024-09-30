@@ -1,5 +1,5 @@
 # Quem eu sou?
-**Prazer! Me chamo Vitor Rodrigues Izidoro, um ex-aluno do técnico em informática na antiga TECPUC e atual aluno de ciência da computação na PUCPR, e, neste portifólio vou falar sobre alguns de meus projetos.**
+**Prazer! Me chamo Vitor Rodrigues Izidoro, um ex-aluno do técnico em informática na antiga TECPUC e atual aluno de ciência da computação na PUCPR, participante do Centro Acadêmico (ajudando também na organização da semana acadêmica de meu curso), e, neste portifólio vou falar sobre alguns de meus projetos favoritos.**
 ---
 # Projeto Lixeira Inteligente
 
@@ -51,3 +51,9 @@ O código-fonte completo, junto com instruções detalhadas de montagem e config
 ## Resumo
 
 A crescente geração de dados em tempo real por dispositivos móveis e sensores realça a importância da mineração de fluxo de dados (Data Stream Mining – DSM). A classificação desses fluxos enfrenta desafios significativos como conceitos em constante mudança, alta frequência de novos exemplos e recursos computacionais limitados. Algoritmos baseados em ensembles, como o "Random Forest", têm mostrado bons resultados, mas consomem muitos recursos, sendo este o tema de meu projeto de iniciação cientifica, que pode ser lido aqui: https://github.com/Vitor-Izidoro/estudo-ensembles
+
+---
+# Outros projetos:
+alguns de meus outros projetos podem ser encontrados tanto em meu GitHub: https://github.com/Vitor-Izidoro
+quanto em Tinkercad: https://www.tinkercad.com/users/jvgc67BIZqa?type=circuits 
+
