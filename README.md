@@ -3,7 +3,7 @@
 ---
 # Projeto Lixeira Inteligente
 
-Sesenvolvido com o objetivo de monitorar e gerenciar lixeiras remotamente, o sistema é capaz de detectar a quantidade de lixo, verificar se a tampa está aberta ou fechada e enviar essas informações para um site centralizado. O site permite o cadastro e acompanhamento de diversas lixeiras em tempo real.
+Desenvolvido com o objetivo de monitorar e gerenciar lixeiras remotamente, o sistema é capaz de detectar a quantidade de lixo, verificar se a tampa está aberta ou fechada e enviar essas informações para um site centralizado. O site permite o cadastro e acompanhamento de diversas lixeiras em tempo real.
 
 ## Funcionalidades principais
 
