@@ -43,3 +43,11 @@ O **Projeto Stream Deck com Arduino Leonardo** consiste na criação de um paine
 O código-fonte completo, junto com instruções detalhadas de montagem e configuração, está disponível no seguinte link:
 
 - [Projeto Stream Deck com Arduino Leonardo](https://github.com/Vitor-Izidoro/StreamDeck)
+
+---
+# Avaliação do Impacto de Técnicas de Seleção de Instâncias em Ensembles Orientados a Fluxos de Dados
+---
+
+## Resumo
+
+A crescente geração de dados em tempo real por dispositivos móveis e sensores realça a importância da mineração de fluxo de dados (Data Stream Mining – DSM). A classificação desses fluxos enfrenta desafios significativos como conceitos em constante mudança, alta frequência de novos exemplos e recursos computacionais limitados. Algoritmos baseados em ensembles, como o "Random Forest", têm mostrado bons resultados, mas consomem muitos recursos, sendo este o tema de meu projeto de iniciação cientifica, que pode ser lido aqui: https://github.com/Vitor-Izidoro/estudo-ensembles
